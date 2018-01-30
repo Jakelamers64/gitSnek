@@ -31,6 +31,7 @@
 class Game
 {
 public:
+	//was uppp
 	Game( class MainWindow& wnd );
 	Game( const Game& ) = delete;
 	Game& operator=( const Game& ) = delete;
